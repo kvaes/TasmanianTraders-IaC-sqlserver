@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy a SQL by using Azure Automation DSC",
+  "description": "The sql server can leverage the PAYG or BYOL images. The IP will be allocated dynamically by Azure and converted to a static one.",
+  "summary": "Deploy a SQL by using Azure Automation DSC",
+  "githubUsername": "kvaes",
+  "dateUpdated": "2017-05-17"
+}
