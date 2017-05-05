@@ -72,7 +72,7 @@
     "vmFullName": "[concat(parameters('vmPrefix'),variables('vmName'),parameters('vmSuffix'))]",
     "vmSize": "Standard_D1_v2",
     "vmImagePublisher": "MicrosoftSQLServer",
-    "vmImageOffer": "SQL2016SP1-WS2016",
+    "vmImageOffer": "SQL2016-WS2016",
     "vmImageVersion": "13.0.21640",
 	"vmImageSKU": "SQLDEV",
     "OSDiskName": "[concat('disk-',variables('vmFullName'),'-os')]",
